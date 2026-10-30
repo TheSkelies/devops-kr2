@@ -1,3 +1,4 @@
+# КР2: Илюхин
 import os
 import socket
 
